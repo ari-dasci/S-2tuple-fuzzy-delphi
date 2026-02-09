@@ -13,7 +13,7 @@ Authors (alphabetical list):
 
 Contact: rosana@ugr.es
 
-Broken-Website: https://noezermeno.github.io/2tuple-fuzzy-delphi/
+Copy Website: https://noezermeno.github.io/2tuple-fuzzy-delphi/
 
-Current website: https://lionware.dev/2tuple-fuzzy-delphi/
+Website: [https://sci2s.ugr.es/2tuple-fuzzy-delphi/](https://sci2s.ugr.es/2tuple-fuzzy-delphi/)
 
